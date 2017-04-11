@@ -4,6 +4,10 @@
   - Spring Boot
   - Jackson
 
+# Credits
+
+- https://app.pluralsight.com/library/courses/spring-mvc4-introduction
+
 # Build
 
   - `mvn clean install -U`
